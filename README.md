@@ -94,3 +94,7 @@ on an Apple M3 with NumPy 2.2.5 and SciPy 1.15.3.
   and cosine, so they can differ in the last bits across math libraries. On the
   MMD problems this changes no iteration count, and the losses agree to
   about 10⁻¹¹ relative.
+
+## License
+
+MIT; see [LICENSE](LICENSE).
